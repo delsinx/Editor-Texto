@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G4ayFNvv0B0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Delsin\\Desktop\\C#\\EditorHTML\\EditorHtml\\EditorHtml\\EditorHtml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Delsin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Delsin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Delsin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\Delsin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
